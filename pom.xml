@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>booking.com</artifactId>
 	<version>v0.0.1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>booking.com</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
